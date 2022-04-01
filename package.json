@@ -1,0 +1,25 @@
+{
+  "name": "tau-js-client-example",
+  "version": "1.0.0",
+  "description": "An example project to demonstrate how you can use the tau-js-client npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Team-TAU/tau-js-client-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Team-TAU/tau-js-client-example/issues"
+  },
+  "homepage": "https://github.com/Team-TAU/tau-js-client-example#readme",
+  "dependencies": {
+    "rxjs": "^7.5.5",
+    "tau-js-client": "0.0.6",
+    "ws": "^8.5.0"
+  }
+}
